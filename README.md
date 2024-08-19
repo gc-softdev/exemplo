@@ -1,4 +1,6 @@
 # exemplo
-Realizada a primeira alteração.
+Realizada primeira alteração.
 Realizada segunda alteração.
 Realizada terceira alteração.
+Realizada quarta alteração.
+
